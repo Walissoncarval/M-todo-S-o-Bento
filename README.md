@@ -1,2 +1,2 @@
-# M-todo-S-o-Bento
+# Metodo-Sao-Bento
 ESTUDO PRAGMÁTICO
